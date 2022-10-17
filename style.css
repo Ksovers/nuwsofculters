@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+ul.hr {
+    margin: 0; 
+    padding: 4px; 
+    text-align: center;
+}
+ul.hr li {
+    display: inline; 
+    margin-right: 5px; 
+    padding: 45px; 
+}
+
+.im1 {
+    text-align: center;
+}
+
+div#t1 {
+    position: relative;
+    
+    }
+.t1 {  
+    position: absolute;
+    top: 225px;   
+    left:25%;
+    text-transform: uppercase;  
+    color: white;  
+    width: 1000px;  
+    padding: 10px; 
+    text-align: center;
+    font-size: 60px;
+}
+.t2 {  
+    position: absolute;
+    top: 425px;   
+    left: 38%;
+    text-transform: uppercase;  
+    color: white;  
+    width: 500px;  
+    padding: 10px; 
+    text-align: center;
+    font-size: 12px;
+}
+.t3{
+    text-align: center;
+}
+
+.d1{
+    display: inline-block;
+}
+
+.d2{
+    display: list-item;
+}
